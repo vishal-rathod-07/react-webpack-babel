@@ -1,0 +1,19 @@
+{
+  "name": "react-webpack-babel",
+  "version": "1.0.0",
+  "description": "React, Webpack, Babel Setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"No test specified\\\" && exit 0\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal-rathod-07/react-webpack-babel.git"
+  },
+  "author": "Vishal Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal-rathod-07/react-webpack-babel/issues"
+  },
+  "homepage": "https://github.com/vishal-rathod-07/react-webpack-babel#readme"
+}
